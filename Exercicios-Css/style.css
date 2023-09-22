@@ -1,0 +1,31 @@
+        body{
+            background: linear-gradient(180deg, #ADD7F6, #0A1045);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: larger;
+            margin: 10px;
+            margin-right: 30px;
+        }
+        
+        h1{
+            text-align: center;
+            color:#0A1045
+        }
+        h2{
+            color:rgb(127, 0, 247)
+        }
+
+        h3{
+            color: purple
+        }
+        h4{
+            color:#F6AF65
+        }
+
+        p{
+            text-align: justify;
+            text-indent: 35px;
+            font-family: cursive;
+            font-style: italic;
+        }
+
+        
